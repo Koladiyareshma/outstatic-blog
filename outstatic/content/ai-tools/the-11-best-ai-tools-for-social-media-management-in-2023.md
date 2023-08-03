@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/135234664?v=4'
 slug: 'the-11-best-ai-tools-for-social-media-management-in-2023'
 description: 'The 11 best AI tools for social media management in 2023'
-coverImage: '/images/ai_social_media-E3MD.jpg'
+coverImage: '/images/ai_social_media-Y1Mz.jpg'
 publishedAt: '2023-08-03T06:28:11.548Z'
 ---
 
